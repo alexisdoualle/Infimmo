@@ -1,0 +1,13 @@
+c:\users\alexis\documents\visual studio 2012\Projects\Infimmo2\Infimmo2\bin\Debug\Infimmo2.exe.config
+c:\users\alexis\documents\visual studio 2012\Projects\Infimmo2\Infimmo2\bin\Debug\Infimmo2.exe
+c:\users\alexis\documents\visual studio 2012\Projects\Infimmo2\Infimmo2\bin\Debug\Infimmo2.pdb
+c:\users\alexis\documents\visual studio 2012\Projects\Infimmo2\Infimmo2\obj\Debug\Infimmo2.Form1.resources
+c:\users\alexis\documents\visual studio 2012\Projects\Infimmo2\Infimmo2\obj\Debug\Infimmo2.Properties.Resources.resources
+c:\users\alexis\documents\visual studio 2012\Projects\Infimmo2\Infimmo2\obj\Debug\Infimmo2.csproj.GenerateResource.Cache
+c:\users\alexis\documents\visual studio 2012\Projects\Infimmo2\Infimmo2\obj\Debug\Infimmo2.exe
+c:\users\alexis\documents\visual studio 2012\Projects\Infimmo2\Infimmo2\obj\Debug\Infimmo2.pdb
+C:\Users\Alexis\Documents\Visual Studio 2012\Projects\Infimmo2\Infimmo2\obj\Debug\Infimmo2.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Documents\Visual Studio 2012\Projects\Infimmo2\Infimmo2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alexis\Documents\Visual Studio 2012\Projects\Infimmo2\Infimmo2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alexis\Documents\Visual Studio 2012\Projects\Infimmo2\Infimmo2\obj\Debug\Infimmo2.Ajout_de_Cours.resources
+C:\Users\Alexis\Documents\Visual Studio 2012\Projects\Infimmo2\Infimmo2\obj\Debug\Infimmo2.Renommer.resources
